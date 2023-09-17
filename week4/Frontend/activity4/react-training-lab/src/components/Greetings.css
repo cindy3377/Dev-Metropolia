@@ -1,0 +1,15 @@
+/* Greetings.css */
+
+/* Style for the container div */
+div {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Style for the greeting text */
+  p {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333; /* Change the color as desired */
+  }
+  
