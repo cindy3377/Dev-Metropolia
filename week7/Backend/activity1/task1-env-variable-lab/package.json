@@ -1,0 +1,21 @@
+{
+  "name": "task1-env-variable-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "start": "cross-env  NODE_ENV=production node index.js",
+    "dev": "cross-env NODE_ENV=development node index.js",
+    "test": "cross-env NODE_ENV=test node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.5.4"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
