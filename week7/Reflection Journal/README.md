@@ -54,7 +54,7 @@ Coping Strategies:
 
 Academic Progress:
 
-- I completed all assignments for both the Web Course and Project Course.
+- I completed all assignments for both the Web Course and Project Course. I was trying to test the airport gap in backend testing but this website didn't work for me.
 
 Soft Skills Development:
 
